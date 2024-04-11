@@ -1,0 +1,28 @@
+.accordion{
+    background-color: #b59e9e;
+    color: #031316;
+    cursor: pointer;
+    padding: 19px;
+    width: 100%;
+    text-align: left;
+    border: 1px solid black;
+    
+}
+.btn_front{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.hiddenText{
+    padding: 20px 18px;
+    text-align: center;
+    background-color: rgb(168, 139, 139);
+    display: none;
+}
+
+/* .showText{
+    padding: 20px 18px;
+    text-align: center;
+    background-color: rgb(168, 139, 139);
+    display: block;
+} */
